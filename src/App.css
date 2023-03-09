@@ -1,0 +1,17 @@
+body{
+  padding: 50px;
+}
+.square{
+  width: 70px;
+  height: 70px;
+  font-size: 45px;
+  font-weight: 900;
+}
+.board-row{
+  display: flex;
+  width: 210px;
+  flex-wrap: wrap;
+}
+li{
+  margin-bottom: 4px;
+}
