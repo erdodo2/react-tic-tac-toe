@@ -1,1 +1,1 @@
-# A simple xox game written in React.
+# A simple tic tac toe game written in React.
