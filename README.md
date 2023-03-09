@@ -1,1 +1,1 @@
-#A simple xox game written in React.
+# A simple xox game written in React.
